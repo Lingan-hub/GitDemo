@@ -15,4 +15,10 @@ public class AppiumTest
 		System.out.println("MobileApplication");
 	}
 
+	@Test
+	public void IphoneApplication()
+	{
+		System.out.println("IphoneApplication");
+	}
+
 }
